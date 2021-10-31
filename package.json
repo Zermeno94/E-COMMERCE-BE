@@ -1,0 +1,21 @@
+{
+  "name": "E-COMMERCE-BE",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zermeno94/E-COMMERCE-BE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zermeno94/E-COMMERCE-BE/issues"
+  },
+  "homepage": "https://github.com/Zermeno94/E-COMMERCE-BE#readme"
+}
