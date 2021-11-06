@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Zermeno94/E-COMMERCE-BE/issues"
   },
-  "homepage": "https://github.com/Zermeno94/E-COMMERCE-BE#readme"
+  "homepage": "https://github.com/Zermeno94/E-COMMERCE-BE#readme",
+  "dependencies": {
+    "sequelize": "^6.9.0"
+  }
 }
