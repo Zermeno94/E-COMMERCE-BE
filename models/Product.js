@@ -19,13 +19,29 @@ Product.init(
    
   },
   // product_name
-
-  // price
-
-  // stock
+ {
+   product_name:{
+    type: DataTypes.INTEGER,
+    allowNull: false,
+   }
   
-  //category_id
+ },
 
+ {
+   //price
+  
+ },
+
+ {
+
+ // stock
+
+ },
+
+{
+  // category_id
+},
+  
   {
     sequelize,
     timestamps: false,
