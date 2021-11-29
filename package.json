@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/Zermeno94/E-COMMERCE-BE#readme",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "express-session": "^1.17.2",
+    "mysql2": "^2.3.3",
     "sequelize": "^6.9.0"
   }
 }
