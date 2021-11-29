@@ -55,7 +55,7 @@ This back end will allow the user to access the back end to their e-commerce web
 
 ## Resources & Tutorials  💻
 
-* [https://www.youtube.com/watch?v=Jv2uxzhPFl4](#https://www.youtube.com/watch?v=Jv2uxzhPFl4)
+
 * [https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md](#https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 
