@@ -20,24 +20,33 @@ Your task is to build the back end for an e-commerce site by modifying starter c
 You’ll need to use the [MySQL2](https://www.npmjs.com/package/mysql2) and [Sequelize](https://www.npmjs.com/package/sequelize) packages to connect your Express.js API to a MySQL database and the [dotenv](https://www.npmjs.com/package/dotenv) package to use environment variables to store sensitive data. The application will be invoked by using the following command:
 
 ```bash
-  npm install 
-``` 
-```bash
-  npm i mysql2
+  npm install
 ```
-```bash
-  npm i sequelize
-```
-```bash
-  npm start
-```
+Open MySQL by the following command line:
 ```bash
   mysql -u root -p
+```
+From there you will enter the next command line: 
+```bash
+  source db/schema.sql
+``` 
+
+Exit MySQL shell seed the database with the following command line: 
+```bash
+  node seeds/index.js  
+```
+or
+```bash
+  npm seed
+```
+Finally you will enter the last command to connect to the server: 
+```bash
+  npm start
 ```
 
 
 ### Usage ⚡
-This back end will allow the user to access the back end to their e-commerce website. 
+This application does not have front-end built, but it allows you to test routes and their functionality using Insomina. 
 
 ### Demo 🎥
 
@@ -50,7 +59,7 @@ This back end will allow the user to access the back end to their e-commerce web
 
 ## Contributers
 * Miranda Zermeno
-* Classmates: 
+* Tutor: Eric Slayer 
 
 
 ## Resources & Tutorials  💻
@@ -59,9 +68,7 @@ This back end will allow the user to access the back end to their e-commerce web
 * [https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md](#https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 
-## License 📍
-
-MIT License
+## MIT License 📍
 
 Copyright (c) 2021 Miranda Zermeno
 
