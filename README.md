@@ -11,7 +11,7 @@ Your task is to build the back end for an e-commerce site by modifying starter c
 - [Installation](#installation)
 - [Usage](#usage)
 - [Demo](#demo)
- -[GitHub & Deploy Link](#githubdeploylink)
+ -[GitHub Link](#githubdeploylink)
 - [Contributers](#contributers)
 - [Resources & Tutorials](#resources&tutorials)
 - [License](#license)
@@ -50,12 +50,12 @@ This application does not have front-end built, but it allows you to test routes
 
 ### Demo 🎥
 
-* [Link to Demo]()
+* [Link to Demo](https://watch.screencastify.com/v/wIFqz9Mdjt1RWgVbblbV)
 
-### GitHub & Deploy Link
+### GitHub 
 
 * [GitHub Link](https://github.com/Zermeno94/TEAM-PRO-GEN)
-* [Deploy Link]()
+
 
 ## Contributers
 * Miranda Zermeno
@@ -66,6 +66,11 @@ This application does not have front-end built, but it allows you to test routes
 
 
 * [https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md](#https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+* [npm documentation on dotenv](#https://www.npmjs.com/package/dotenv)
+* [Sequelize documentation on model querying basics](#https://sequelize.org/master/manual/model-querying-basics.html)
+* [Sequelize documentation on validations and constraints](#https://sequelize.org/master/manual/validations-and-constraints.html)
+* [https://developer.mozilla.org/en-US/](#https://developer.mozilla.org/en-US/)
+* [https://www.youtube.com/watch?v=V_Kr9OSfDeU](#https://www.youtube.com/watch?v=V_Kr9OSfDeU)
 
 
 ## MIT License 📍
